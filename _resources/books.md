@@ -16,6 +16,7 @@ layout: post
 ### Independent practice, consulting, freelancing
 - [*Design Is a Job* by Mike Monteiro](https://www.goodreads.com/book/show/13574985-design-is-a-job), 2012 — no bullshit lessons on selling yourself and working with others
 - [*Pricing Design* by Dan Mall](https://www.goodreads.com/book/show/28511400-pricing-design), 2016 —  brief and invaluable reference on value-based pricing
+- [*Creative Truth: Start & Build a Profitable Design Business* by Brad Weaver](https://www.goodreads.com/book/show/27193258-creative-truth), 2016 – step by step guide on starting, pricing, marketing, and operations.
 
 ### Process and mindset
 - [*The Artist's Way* by Julia Cameron](https://www.goodreads.com/book/show/615570.The_Artist_s_Way), 1992 – classic international bestseller on the creative process
